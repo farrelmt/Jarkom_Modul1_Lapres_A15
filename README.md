@@ -1,42 +1,74 @@
-# Jarkom_Modul1_Lapres_A15
-Lapres praktikum jaringan komputer modul 1
+Kelompok A15 :
+Farrel Muhammad Taqi     05111840000071
+Muhammad Iqbal Humam     05111840000103
 
-![alt text](https://ibb.co/6DG9Fhc)
-![alt text](https://ibb.co/dtDdMVc)
-![alt text](https://ibb.co/6ZmJyYj)
-![alt text](https://ibb.co/bmk8mFd)
-![alt text](https://ibb.co/d50XSQT)
-![alt text](https://ibb.co/4F2KkMB)
-![alt text](https://ibb.co/F0rXZGb)
-![alt text](https://ibb.co/56pnqzB)
-![alt text](https://ibb.co/SxBbmpH)
-![alt text](https://ibb.co/BKNn4W7)
-![alt text](https://ibb.co/wLLJ1sr)
-![alt text](https://ibb.co/r5z85Zk)
-![alt text](https://ibb.co/FzNpvjN)
-![alt text](https://ibb.co/zmZys0G)
-![alt text](https://ibb.co/LRzsWPf)
-![alt text](https://ibb.co/556MWdK)
-![alt text](https://ibb.co/9y977hQ)
-![alt text](https://ibb.co/qJtbrKs)
-![alt text](https://ibb.co/FWSbry6)
-![alt text](https://ibb.co/S35QMWz)
+Display Filter
+Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
 
-![alt text](https://ibb.co/L5TnLTc)
-![alt text](https://ibb.co/rGnK0RC)
-![alt text](https://ibb.co/tD9wMSq)
-![alt text](https://ibb.co/Fxms9KX)
-![alt text](https://ibb.co/wsY0zVQ)
-![alt text](https://ibb.co/zr54Gjn)
-![alt text](https://ibb.co/bdJFdDZ)
-![alt text](https://ibb.co/gMyZpz0)
-![alt text](https://ibb.co/BGcpcL6)
-![alt text](https://ibb.co/L6b1LFw)
-![alt text](https://ibb.co/ZgGMN58)
-![alt text](https://ibb.co/xhjYvb5)
-![alt text](https://ibb.co/YB5dmpg)
-![alt text](https://ibb.co/4K8fJ1X)
-![alt text](https://ibb.co/CV7PDWM)
-![alt text](https://ibb.co/C25jghy)
-![alt text](https://ibb.co/0t0nmMP)
-![alt text](https://ibb.co/VLmvCDV)
+
+Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
+
+
+
+Cari username dan password ketika login di "ppid.dpr.go.id"!
+
+
+
+Temukan paket dari web-web yang menggunakan basic authentication method!
+
+
+Ikuti perintah di aku.pengen.pw! Username dan password bisa didapatkan dari file .pcapng!
+
+
+
+Seseorang menyimpan file zip melalui FTP dengan nama "Answer.zip". Simpan dan Buka file "Open This.pdf" di Answer.zip. Untuk mendapatkan password zipnya, temukan dalam file zipkey.txt (passwordnya adalah isi dari file txt tersebut).
+
+
+
+
+
+
+Ada 500 file zip yang disimpan ke FTP Server dengan nama 1.zip, 2.zip, ..., 500.zip. Salah satunya berisi pdf yang berisi puisi. Simpan dan Buka file pdf tersebut.
+Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
+
+
+
+
+Cari objek apa saja yang didownload (RETR) dari koneksi FTP dengan Microsoft FTP Service!
+
+
+Cari username dan password ketika login FTP pada localhost!
+
+
+
+Cari file .pdf di wireshark lalu download dan buka file tersebut!
+clue: "25 50 44 46" 
+
+
+
+
+
+B. Capture Filter
+11. Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
+
+
+
+12. Filter sehingga wireshark hanya mengambil paket yang berasal dari port 80!
+
+
+
+13. Filter sehingga wireshark hanya menampilkan paket yang menuju port 443!
+Untuk menangkap port 443/https maka command yang digunakan pada capture filter adalah port 443.
+
+
+
+14. Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
+
+
+
+
+
+15. Filter sehingga wireshark hanya mengambil paket yang tujuannya ke monta.if.its.ac.id!
+
+
+
