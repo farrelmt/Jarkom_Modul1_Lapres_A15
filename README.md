@@ -18,7 +18,19 @@ Muhammad Iqbal Humam     05111840000103
 
 2. Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
     
-    a. 
+    a. klik file kemudian pilih ```Export Objects```
+    
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/2.1.png)
+    
+    b. mencari file yang ingin didownload pada search bar
+    
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/2.2.png)
+    
+    c. save dan beri nama sesuai yang diinginkan
+    
+    d. hasil :
+    
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/2.3.jpg)
 
 
 3. Cari username dan password ketika login di "ppid.dpr.go.id"!
