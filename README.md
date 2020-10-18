@@ -43,7 +43,9 @@ Muhammad Iqbal Humam     05111840000103
 
 4. Temukan paket dari web-web yang menggunakan basic authentication method!
 
-
+    a. mencari dengan syntax ``` http.authbasic ```
+    
+    ![fotooooo](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/4.1.png)
 
 5. Ikuti perintah di aku.pengen.pw! Username dan password bisa didapatkan dari file .pcapng!
 
@@ -146,28 +148,51 @@ Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
 **B. Capture Filter**
 
 11. Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
-
-
+    a. test ```test```
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/11.1.png)
+    
+    b. test
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/11.2.png)
 
 
 12. Filter sehingga wireshark hanya mengambil paket yang berasal dari port 80!
-
+    a. test ```test```
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/12.1.png)
+    
+    b. test
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/12.2.png)
 
 
 
 13. Filter sehingga wireshark hanya menampilkan paket yang menuju port 443!
 Untuk menangkap port 443/https maka command yang digunakan pada capture filter adalah port 443.
-
+    a. test ```test```
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/13.1.png)
+    
+    b. test
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/13.2.png)
 
 
 
 14. Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
+    a. test ```test```
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/14.1.png)
+    
+    b. test
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/14.2.png)
 
-
-
+    c. test
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/14.3.png)
 
 
 15. Filter sehingga wireshark hanya mengambil paket yang tujuannya ke monta.if.its.ac.id!
+    a. test ```test```
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/15.1.png)
+    
+    b. test
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/15.2.png)
 
+    c. test
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/15.3.png)
 
 
