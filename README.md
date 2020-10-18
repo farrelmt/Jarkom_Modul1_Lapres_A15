@@ -45,7 +45,7 @@ Muhammad Iqbal Humam     05111840000103
 
     a. mencari dengan syntax ``` http.authbasic ```
     
-    ![fotooooo](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/4.1.png)
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/4.1.png)
 
 5. Ikuti perintah di aku.pengen.pw! Username dan password bisa didapatkan dari file .pcapng!
 
