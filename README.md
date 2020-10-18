@@ -1,5 +1,7 @@
 Kelompok A15 :
+
 Farrel Muhammad Taqi     05111840000071
+
 Muhammad Iqbal Humam     05111840000103
 
 **A. Display Filter**
@@ -8,7 +10,7 @@ Muhammad Iqbal Humam     05111840000103
 
     a. menggunakan syntax ``` http.host.contains "testing.mekanis.me" ```
         
-        ![1.1](raw.githubusercontent.com/farrelmt/Jarkom_Modul1_Lapres_A15/main/Screenshot/1.1.png?token=AN5BJS5VML744LSCRM63WDC7SUMGI)
+        ![fotooooo](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/1.1.png)
 
 2. Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
 
