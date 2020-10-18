@@ -121,11 +121,24 @@ Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
 
 9. Cari username dan password ketika login FTP pada localhost!
 
+    a. mencari di display capture dengan syntax    ```tcp.dst == 21```
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/9.1.png)
+    
+    b. klik kanan dan pilih ```follow tcp stream```
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/9.2.png)
+    
 
-10. Cari file .pdf di wireshark lalu download dan buka file tersebut!
-clue: "25 50 44 46" 
 
-
+10. Cari file .pdf di wireshark lalu download dan buka file tersebut! clue: "25 50 44 46"
+    
+    a. tekan ```ctrl + f``` untuk menggunakan fitur find
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/10.1.png)
+    
+    b. follow tcp stream dan ubah ke raw, kemudian save as dengan nama sesuai yang diinginkan
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/10.2.png)
+    
+    c. hasilnya :
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/10.3.png)
 
 
 
