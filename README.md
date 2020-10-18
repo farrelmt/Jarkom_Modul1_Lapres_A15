@@ -106,6 +106,17 @@ Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
 
 8. Cari objek apa saja yang didownload (RETR) dari koneksi FTP dengan Microsoft FTP Service!
 
+    a. mencari ip dari Microsoft FTP Service terlebih dahulu
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/8.1.png)
+    
+    b. mencari di wireshark display capture dengan syntax ```ftp.request.command == RETR" && ip.dst == 198.246.117.106"``` yang merupakan ip dari Microsoft FTP Service
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/8.2.png)
+    
+    c. ditemukan 1 file readme
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/8.3.png)
+    
+    d. isi dari readme tersebut :
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/8.4.png)
 
 
 9. Cari username dan password ketika login FTP pada localhost!
