@@ -150,18 +150,23 @@ Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
 11. Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
     
     a. mencari di display capture dengan syntax ```port 21```
+    
     ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/11.1.PNG)
     
     b. hasilnya
+    
     ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/11.2.PNG)
+
 
 
 12. Filter sehingga wireshark hanya mengambil paket yang berasal dari port 80!
     
     a. mencari di display capture dengan syntax ```src port 80```
+    
     ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/12.1.PNG)
     
     b. hasilnya
+    
     ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/12.2.PNG)
 
 
@@ -169,9 +174,11 @@ Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
 13. Filter sehingga wireshark hanya menampilkan paket yang menuju port 443!
     
     a. mencari di display capture dengan syntax ```dst port 443```
+    
     ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/13.1.PNG)
     
     b. hasilnya
+    
     ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/13.2.PNG)
 
 
@@ -179,13 +186,17 @@ Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
 14. Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
     
     a. mencari ip sendiri dengan cmd ```ipconfig```
+    
     ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/14.1.PNG)
     
     b. mencari di display capture dengan syntax ```src host 192.168.1.13```
+    
     ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/14.2.PNG)
 
     c. hasilnya
+    
     ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/14.3.PNG)
+
 
 
 15. Filter sehingga wireshark hanya mengambil paket yang tujuannya ke monta.if.its.ac.id!
