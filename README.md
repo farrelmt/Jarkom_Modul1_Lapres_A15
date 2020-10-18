@@ -61,6 +61,29 @@ Muhammad Iqbal Humam     05111840000103
 
 6. Seseorang menyimpan file zip melalui FTP dengan nama "Answer.zip". Simpan dan Buka file "Open This.pdf" di Answer.zip. Untuk mendapatkan password zipnya, temukan dalam file zipkey.txt (passwordnya adalah isi dari file txt tersebut).
 
+    a. mencari di display capture wireshark dengan syntax ```ftp-data.command contains "STOR Answer.zip"```
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/6.1.png)
+    
+    b. klik kanan record yang ada dan follow tcp stream
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/6.2.png)
+    
+    c. ubah format file menjadi raw kemudian save as dan beri nama sesuai yang diinginkan
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/6.3.png)
+    
+    d. ekstrak file zip yang sudah didownload, namun kita belum mencari passwordnya
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/6.4.png)
+    
+    e. mencari di display capture wireshard dengan syntax ```ftp-data.command contains "STOR zipkey.txt"```
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/6.5.png)
+    
+    f. klik kanan dan pilih follow tcp stream
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/6.6.png)
+     
+    g. maka akan langsung terlihat passwordnya
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/6.7.png)
+    
+    h. extract file zip tadi dengan password yang sudah ditemukan, kemudian terdapat file ```open this.pdf``` dan apabila dibuka akan ada tampilan sebagai berikut
+     ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/6.8.png)
 
 
 7. Ada 500 file zip yang disimpan ke FTP Server dengan nama 1.zip, 2.zip, ..., 500.zip. Salah satunya berisi pdf yang berisi puisi. Simpan dan Buka file pdf tersebut.
