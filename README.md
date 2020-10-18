@@ -5,8 +5,8 @@ Muhammad Iqbal Humam     05111840000103
 **A. Display Filter**
 
 1. Sebutkan webserver yang digunakan pada "testing.mekanis.me"!
-
-
+    a. menggunakan syntax http.host.contains "testing.mekanis.me"
+        ![test]https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/1.1.png
 
 2. Simpan gambar "Tim_Kunjungan_Kerja_BAKN_DPR_RI_ke_Sukabumi141436.jpg"!
 
@@ -39,7 +39,6 @@ Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
 
 
 9. Cari username dan password ketika login FTP pada localhost!
-
 
 
 10. Cari file .pdf di wireshark lalu download dan buka file tersebut!
