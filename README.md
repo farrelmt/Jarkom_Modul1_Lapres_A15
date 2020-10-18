@@ -88,7 +88,19 @@ Muhammad Iqbal Humam     05111840000103
 
 7. Ada 500 file zip yang disimpan ke FTP Server dengan nama 1.zip, 2.zip, ..., 500.zip. Salah satunya berisi pdf yang berisi puisi. Simpan dan Buka file pdf tersebut.
 Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
-
+    
+    a. mencari di display capture wireshark dengan syntax ```frame contains "Yes.pdf"```
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/7.1.png)
+    
+    b. lakukan ```follow tcp stream``` kemudian ubah format menjadi ```raw``` dan save as puisi.zip
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/7.2.png)
+    
+    c. extract file ```puisi.zip``` dan nantinya akan ada file ```Yes.pdf```
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/7.3.png)
+    
+    d. hasil :
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/7.4.png)
+    
 
 
 
