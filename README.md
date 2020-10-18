@@ -47,7 +47,17 @@ Muhammad Iqbal Humam     05111840000103
 
 5. Ikuti perintah di aku.pengen.pw! Username dan password bisa didapatkan dari file .pcapng!
 
-
+    a. membuka dulu ```aku.pengen.pw``` pada browser 
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/5.1.png)
+    
+    b. mencari di wireshark dengan syntax ```http.host contains "aku.pengen.pw"``` untuk mencari username dan password
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/5.2.png)
+    
+    c. klik 2x pada record dan mencari username dan password pada isi file
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/5.3.png)
+    
+    d. memasukkan username dan password ke ```aku.pengen.pw``` yang sudah dibuka pada langkah pertama, dan menjawab pertanyaan di dalamnya
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/5.4.png)
 
 6. Seseorang menyimpan file zip melalui FTP dengan nama "Answer.zip". Simpan dan Buka file "Open This.pdf" di Answer.zip. Untuk mendapatkan password zipnya, temukan dalam file zipkey.txt (passwordnya adalah isi dari file txt tersebut).
 
