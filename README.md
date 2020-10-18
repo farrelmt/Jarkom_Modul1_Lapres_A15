@@ -148,50 +148,55 @@ Your Super Mega Ultra Rare Hint = nama pdf-nya "Yes.pdf"
 **B. Capture Filter**
 
 11. Filter sehingga wireshark hanya mengambil paket yang mengandung port 21!
-    a. test ```test```
+    
+    a. mencari di display capture dengan syntax ```port 21```
     ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/11.1.PNG)
     
-    b. test
+    b. hasilnya
     ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/11.2.PNG)
 
 
 12. Filter sehingga wireshark hanya mengambil paket yang berasal dari port 80!
-    a. test ```test```
+    
+    a. mencari di display capture dengan syntax ```src port 80```
     ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/12.1.PNG)
     
-    b. test
+    b. hasilnya
     ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/12.2.PNG)
 
 
 
 13. Filter sehingga wireshark hanya menampilkan paket yang menuju port 443!
-    a. test ```test```
+    
+    a. mencari di display capture dengan syntax ```dst port 443```
     ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/13.1.PNG)
     
-    b. test
+    b. hasilnya
     ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/13.2.PNG)
 
 
 
 14. Filter sehingga wireshark hanya mengambil paket yang berasal dari ip kalian!
-    a. test ```test```
+    
+    a. mencari ip sendiri dengan cmd ```ipconfig```
     ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/14.1.PNG)
     
-    b. test
+    b. mencari di display capture dengan syntax ```src host 192.168.1.13```
     ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/14.2.PNG)
 
-    c. test
+    c. hasilnya
     ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/14.3.PNG)
 
 
 15. Filter sehingga wireshark hanya mengambil paket yang tujuannya ke monta.if.its.ac.id!
-    a. test ```test```
+    
+    a. mencari ip monta dengan cmd ```ping monta.if.its.ac.id```
     ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/15.1.PNG)
     
-    b. test
+    b. mencari di display capture dengan syntax ```dst net 103.94.190.11```
     ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/15.2.PNG)
 
-    c. test
+    c. hasilnya
     ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/15.3.PNG)
 
 
