@@ -35,7 +35,11 @@ Muhammad Iqbal Humam     05111840000103
 
 3. Cari username dan password ketika login di "ppid.dpr.go.id"!
 
-
+    a. mencari dengan syntax ```http.host contains "ppid.dpr.go.id" && http.request.method == POST```
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/3.1.png)
+    
+    b. klik 2x pada record yang ada, kemudian akan terlihat username dan password 
+    ![](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/3.2.png)
 
 4. Temukan paket dari web-web yang menggunakan basic authentication method!
 
