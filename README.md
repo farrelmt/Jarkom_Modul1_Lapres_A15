@@ -12,7 +12,7 @@ Muhammad Iqbal Humam     05111840000103
     
     ![fotooooo](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/1.1.png)
     
-    b. kemudian klik kanan dan ```follow tcp stream```
+    b. kemudian klik kanan dan ```follow http stream```
     
     ![fotooo](https://github.com/farrelmt/Jarkom_Modul1_Lapres_A15/blob/main/Screenshot/1.2.png)
 
